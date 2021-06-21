@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     private ImageButton lightButton;
 
     boolean hasCameraFlash = false;
-    Boolean flashOn = false;
+    boolean flashOn = false;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
